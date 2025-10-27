@@ -273,4 +273,11 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 - BeautifulSoup for HTML parsing
 - The open-source community for the excellent tools and libraries used in this project
 
+##  Contact
 
+For questions, suggestions, or collaboration opportunities, please contact:
+
+
+- **Email**: aitlhajoussama22@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/oussama-oueld-aicha-elhaj/
+- **GitHub**: https://github.com/Oussama22AT
